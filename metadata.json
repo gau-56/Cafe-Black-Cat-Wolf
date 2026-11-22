@@ -1,0 +1,6 @@
+{
+  "name": "Cafe Black Cat & Wolf",
+  "description": "Cozy, pet-friendly cafe on Law College Road, Deccan Gymkhana, Pune serving specialty coffee, avocado toast, artisan pasta, and handcrafted desserts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
